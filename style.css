@@ -37,6 +37,10 @@ body{
 }
 
 .btn{
-    width: 200px;
+    width: 100px;
     height: 40px;
+    background-color: lightblue;
+    border: none;
+    color: darkred;
+    font-weight: bold;
 }
